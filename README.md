@@ -146,7 +146,7 @@ jupyter notebook Whatsapp_Bot_Using_Only_Selenium_final.ipynb
 
 **Nikhil Chavhan (Alias: Bhole-Nath)**  
 _A project by Apex Strategies_  
-🌐 [Website](https://apexstrategies.com)
+🌐 [Website](https://apexstrategies.in)
 
 ---
 
